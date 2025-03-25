@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Treamyracle
-- 👀 I’m interested in Data Science Programming
+- 👀 I’m interested in Data Science
 - 🌱 I’m currently using Python, Golang, HTML, and CSS
 - 📫 How to reach me arifathayaharahap@gmail.com
 
