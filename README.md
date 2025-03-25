@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Treamyracle
-- 👀 I’m interested in Video Game
-- 🌱 I’m currently learning C++ and Java
+- 👀 I’m interested in Data Science Programming
+- 🌱 I’m currently using Python, Golang, HTML, and CSS
 - 📫 How to reach me arifathayaharahap@gmail.com
 
 <!---
