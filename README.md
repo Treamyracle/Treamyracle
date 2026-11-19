@@ -7,6 +7,7 @@
 Informatics Engineering student at Universitas Brawijaya (FILKOM UB) building practical AI systems, LLM/MCP tooling, and scalable backend services in Python and Go.
 
 [![Website](https://img.shields.io/badge/Portfolio-arifathaya.site-0F172A?style=for-the-badge&logo=vercel&logoColor=white)](https://www.arifathaya.site/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-arifathaya-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arifathaya/)
 [![Hugging Face](https://img.shields.io/badge/Hugging_Face-treamyracle-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/treamyracle)
 [![Email](https://img.shields.io/badge/Email-arifathayaharahap@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arifathayaharahap@gmail.com)
 
@@ -16,9 +17,11 @@ Informatics Engineering student at Universitas Brawijaya (FILKOM UB) building pr
 
 ### About Me
 
-- **Education:** B.Sc. Candidate in Informatics Engineering, Faculty of Computer Science, Universitas Brawijaya (FILKOM UB).
-- **Experience:** AI/ML Intern at **PT Infomedia Nusantara**, working on AutoML workflows, model evaluation, and end-to-end API integration.
-- **Focus Areas:** Applied Machine Learning, NLP & Computer Vision, Distributed Training, Model Context Protocol (MCP) tooling, and RESTful backend architecture.
+- **Education:** B.Sc. Candidate in Informatics Engineering, Faculty of Computer Science, Universitas Brawijaya (FILKOM UB, 2023–2027).
+- **Experience:**
+  - **LLM Model Engineer — Artificial Intelligence Talent Factory (AITF), KOMDIGI** (Aug 2025 – Dec 2025): Managed the end-to-end LLM engineering lifecycle — dataset curation, base model pre-training & fine-tuning, rigorous evaluation, and model deployment for public-sector AI challenges.
+  - **AI/ML Intern — PT Infomedia Nusantara**: Developed AutoML workflows, model evaluation pipelines, and end-to-end FastAPI/React integration.
+- **Focus Areas:** Applied Machine Learning, NLP & Computer Vision, LLM Fine-Tuning (CPT/SFT), Distributed Training, Model Context Protocol (MCP) tooling, and scalable backend architecture.
 
 ---
 
