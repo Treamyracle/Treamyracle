@@ -26,6 +26,7 @@ Informatics Engineering student at Universitas Brawijaya (FILKOM UB) building pr
 
 | Project | Description | Stack |
 | :--- | :--- | :--- |
+| [**IndoBERT-NER (Gold)**](https://huggingface.co/treamyracle/indobert-ner-gold) | State-of-the-Art (SOTA) Indonesian Named Entity Recognition model (`indobert-large-p1`, 334M params) trained with two-stage Silver-to-Gold curriculum learning (+3.54% F1 vs. NusaBERT on NER_UI, 15.84 ms latency). | `Python` `PyTorch` `Transformers` `Hugging Face` |
 | [**colab-mcp**](https://github.com/Treamyracle/colab-mcp) | Model Context Protocol (MCP) server for consumer Google Colab — execute Python code and `.ipynb` notebooks on CPU, GPU (`T4`/`L4`/`A100`/`H100`), and TPU runtimes. | `Python` `MCP` `Google Colab` |
 | [**voluntrain**](https://github.com/Treamyracle/voluntrain) | Lightweight Python library for decentralized, elastic distributed PyTorch training across CUDA, ROCm, Apple Silicon (MPS), and CPU devices. | `Python` `PyTorch` `Distributed ML` |
 | [**Infomedia AutoML**](https://github.com/Treamyracle/Infomedia_AUTOML_BE) | Full-stack AutoML platform combining a [FastAPI backend](https://github.com/Treamyracle/Infomedia_AUTOML_BE) and [React + Vite frontend](https://github.com/Treamyracle/Infomedia_AUTOML_FE) for automated model training and evaluation. | `Python` `FastAPI` `PyCaret` `React` |
@@ -46,6 +47,7 @@ Informatics Engineering student at Universitas Brawijaya (FILKOM UB) building pr
 </p>
 <p>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face" />
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
